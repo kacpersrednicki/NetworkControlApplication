@@ -1,0 +1,168 @@
+{
+    "cities": [
+        "Malmo",
+        "Berlin",
+        "Gdansk",
+        "Hanower",
+        "Praga",
+        "Norymberga",
+        "Wieden",
+        "Ostrawa",
+        "Zagrzeb",
+        "Graz"
+    ],
+    "links": [
+        {
+            "city_a": "Malmo",
+            "city_b": "Berlin",
+            "delay": 2.388547245543057,
+            "bandwidth": 10,
+            "port_a": "2",
+            "port_b": "2"
+        },
+        {
+            "city_a": "Hanower",
+            "city_b": "Berlin",
+            "delay": 1.7946496516162151,
+            "bandwidth": 10,
+            "port_a": "2",
+            "port_b": "3"
+        },
+        {
+            "city_a": "Berlin",
+            "city_b": "Gdansk",
+            "delay": 2.8543692121708633,
+            "bandwidth": 10,
+            "port_a": "4",
+            "port_b": "2"
+        },
+        {
+            "city_a": "Berlin",
+            "city_b": "Praga",
+            "delay": 1.9769947697624581,
+            "bandwidth": 10,
+            "port_a": "5",
+            "port_b": "2"
+        },
+        {
+            "city_a": "Praga",
+            "city_b": "Norymberga",
+            "delay": 1.781978091476712,
+            "bandwidth": 10,
+            "port_a": "3",
+            "port_b": "2"
+        },
+        {
+            "city_a": "Praga",
+            "city_b": "Wieden",
+            "delay": 1.8105113334236866,
+            "bandwidth": 10,
+            "port_a": "4",
+            "port_b": "2"
+        },
+        {
+            "city_a": "Wieden",
+            "city_b": "Ostrawa",
+            "delay": 1.5942594905138774,
+            "bandwidth": 10,
+            "port_a": "3",
+            "port_b": "2"
+        },
+        {
+            "city_a": "Wieden",
+            "city_b": "Zagrzeb",
+            "delay": 1.8978530510065992,
+            "bandwidth": 10,
+            "port_a": "4",
+            "port_b": "2"
+        },
+        {
+            "city_a": "Zagrzeb",
+            "city_b": "Graz",
+            "delay": 1.0231794484839534,
+            "bandwidth": 10,
+            "port_a": "3",
+            "port_b": "2"
+        },
+        {
+            "city_a": "Malmo",
+            "city_b": "Hanower",
+            "delay": 2.9715606985513,
+            "bandwidth": 10,
+            "port_a": "3",
+            "port_b": "3"
+        },
+        {
+            "city_a": "Hanower",
+            "city_b": "Norymberga",
+            "delay": 2.3760363342430195,
+            "bandwidth": 10,
+            "port_a": "4",
+            "port_b": "3"
+        },
+        {
+            "city_a": "Hanower",
+            "city_b": "Praga",
+            "delay": 2.925037454379324,
+            "bandwidth": 10,
+            "port_a": "5",
+            "port_b": "5"
+        },
+        {
+            "city_a": "Norymberga",
+            "city_b": "Wieden",
+            "delay": 2.9161114947346145,
+            "bandwidth": 10,
+            "port_a": "4",
+            "port_b": "5"
+        },
+        {
+            "city_a": "Norymberga",
+            "city_b": "Zagrzeb",
+            "delay": 3.8771084582771094,
+            "bandwidth": 10,
+            "port_a": "5",
+            "port_b": "4"
+        },
+        {
+            "city_a": "Praga",
+            "city_b": "Ostrawa",
+            "delay": 1.953372989154273,
+            "bandwidth": 10,
+            "port_a": "6",
+            "port_b": "3"
+        },
+        {
+            "city_a": "Berlin",
+            "city_b": "Ostrawa",
+            "delay": 3.223985878799573,
+            "bandwidth": 10,
+            "port_a": "6",
+            "port_b": "4"
+        },
+        {
+            "city_a": "Gdansk",
+            "city_b": "Ostrawa",
+            "delay": 3.5912549785056043,
+            "bandwidth": 10,
+            "port_a": "3",
+            "port_b": "5"
+        },
+        {
+            "city_a": "Malmo",
+            "city_b": "Gdansk",
+            "delay": 2.734669649142857,
+            "bandwidth": 10,
+            "port_a": "4",
+            "port_b": "4"
+        },
+        {
+            "city_a": "Graz",
+            "city_b": "Wieden",
+            "delay": 1.0313043788058593,
+            "bandwidth": 10,
+            "port_a": "3",
+            "port_b": "6"
+        }
+    ]
+}

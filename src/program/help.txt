@@ -1,0 +1,10 @@
+Dostępne polecenia:
+help - wyświetla tę wiadomość.
+hosts - wyświetla wszystkie hosty w sieci.
+ping <start_host> <end_host> - tworzy ścieżkę umożliwiającą wykonanie polecenia ping między dwoma hostami.
+start <start_host> <end_host> <session_type> <minimum_bandwidth> - tworzy ścieżkę dla sesji TCP lub UDP między dwoma hostami dla podanej minimalnej przepustowości w megabitach na sekundę.
+list - wyświetla wszystkie sesje i ich ścieżki.
+end <session_id> - kończy sesje dla sesji o podanym ID i zwalnia sieć.
+source <file> - wykonuje wszystkie polecenia z podanego pliku.
+test <host_a> <host_b> <session_type> - wylicza możliwe najkrótsze ścieżki dla kolejnych wartości przepustowośći.
+exit - kończy wykonywanie programu i kończy wszystkie sesje.
